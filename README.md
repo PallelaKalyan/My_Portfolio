@@ -27,7 +27,7 @@ To run the portfolio locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/PallelaKalyan/My_Portfolio_Website.git
    ```
 
 2. Navigate to the project directory:

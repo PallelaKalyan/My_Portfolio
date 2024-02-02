@@ -79,15 +79,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you would like to get in touch with me, you can reach me through the following channels:
 
-- Email: your-Pallelakalyan20@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kalyan-pallela-739013234)
-- GitHub: [Your GitHub Profile](https://github.com/PallelaKalyan)
+- Email:Pallelakalyan20@gmail.com
+- LinkedIn (https://www.linkedin.com/in/kalyan-pallela-739013234)
+- GitHub:(https://github.com/PallelaKalyan)
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
 # Hi, I'm Kalyan! 👋
 🚀 About Me
 
-A Frontend, Passionate , Young , Web developer. Breathing Teck & Computers, Never Stop learning and discovering stuff.
+A Frontend, Passionate, Young, Web developer. Breathing Teck & Computers, Never Stop learning and discovering stuff.
 
 # Appendix
 Don't mind to give the app a star ⭐ 

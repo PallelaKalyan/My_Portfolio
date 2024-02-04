@@ -1,4 +1,4 @@
-# My_Portfolio_Website
+# My_Portfolio
 # Portfolio README
 
 This is a professional Readme file for my web developer portfolio. It provides an overview of the project, installation instructions, features, and other relevant information. The portfolio showcases my skills, projects, and resume, allowing potential employers or clients to get a comprehensive understanding of my capabilities.
@@ -27,7 +27,7 @@ To run the portfolio locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/PallelaKalyan/My_Portfolio_Website.git
+   git clone https://github.com/PallelaKalyan/My_Portfolio.git
    ```
 
 2. Navigate to the project directory:
